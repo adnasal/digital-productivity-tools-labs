@@ -8,16 +8,16 @@ MSc. Adna Salković
 
 ## Labs
 
-- Lab 01 – [link]
-- Lab 02 – [link]
-- Lab 03 – [link]
-- Lab 04 – [link]
-- Lab 05 – [link]
-- Lab 06 – [link]
-- Lab 07 – [link]
-- Lab 08 – [link]
-- Lab 09 – [link]
-- Lab 10 – [link]
+- Lab 01 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 02 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 03 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 04 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 05 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 06 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 07 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 08 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 09 – [https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01]
+- Lab 10 – [[link](https://github.com/adnasal/digital-productivity-tools-labs/tree/main/lab-01)]
 
 
 Each lab contains:
