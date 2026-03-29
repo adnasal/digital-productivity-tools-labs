@@ -1,2 +1,37 @@
-# digital-productivity-tools-labs
-Companion repository for A Practicum in Digital Productivity Tools, providing structured lab materials, templates, and hands-on exercises for developing digital literacy and applied information systems skills.
+# A Practicum in Digital Productivity Tools
+
+This repository contains all lab materials for the book:
+
+**A Practicum in Digital Productivity Tools**  
+Prof. Belma Ramić - Brkić  
+MSc. Adna Salković  
+
+## Labs
+
+- Lab 01 – [link]
+- Lab 02 – [link]
+- Lab 03 – [link]
+- Lab 04 – [link]
+- Lab 05 – [link]
+- Lab 06 – [link]
+- Lab 07 – [link]
+- Lab 08 – [link]
+- Lab 09 – [link]
+- Lab 10 – [link]
+
+
+Each lab contains:
+- Instructions
+- Sample materials
+- Templates
+
+## How to Use
+
+1. Download the materials from each lab folder
+2. Follow the instructions provided in the book
+3. Complete exercises using the provided files
+
+## Notes
+
+- Materials are provided for educational purposes only
+- Files are updated periodically
