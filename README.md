@@ -35,3 +35,21 @@ Each lab contains:
 
 - Materials are provided for educational purposes only
 - Files are updated periodically
+
+## License
+
+This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the authors  
+- NonCommercial — You may not use the material for commercial purposes  
+
+🔗 Full license text: https://creativecommons.org/licenses/by-nc/4.0/
+
+---
+
+© 2026 Prof. Belma Ramić - Brkić, MSc. Adna Salković. All rights reserved.
